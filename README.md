@@ -110,5 +110,5 @@ Il progetto è pronto per essere esteso: puoi aggiungere feature extraction (ban
 
 Tutti i file della venv sono ignorati grazie a .gitignore.
 
-Autore: [Il tuo nome]
+Autore:St.
 Dataset: EEG Eye State Dataset (UCI Repository)
