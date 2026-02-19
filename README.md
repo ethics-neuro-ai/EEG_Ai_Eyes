@@ -105,10 +105,6 @@ Accuracy del modello: ~92% sul test set
 
 Matrice di confusione inclusa nello script train_model.py
 
-Note
-Il progetto è pronto per essere esteso: puoi aggiungere feature extraction (bande EEG), usare deep learning o creare una dashboard interattiva in Streamlit.
-
-Tutti i file della venv sono ignorati grazie a .gitignore.
 
 Autore:St.
 Dataset: EEG Eye State Dataset (UCI Repository)
